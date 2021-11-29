@@ -43,6 +43,11 @@ public class MultiTrackedImageManager : MonoBehaviour
     }
 
     void MyChangeImg(ARTrackedImagesChangedEventArgs _args) {
+        foreach(var i in m_objList) {
+            var obj = i;
+            obj.SetActive(false);
+        }
+
         foreach (var i in _args.added) {
             // 추적용 이미지의 이름을 가지고, 활성화할 오브젝트를 찾는다.
             var objTrans = m_dic[i.referenceImage.name];
