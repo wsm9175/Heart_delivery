@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4833322499857970608
+  m_GuidHigh: 4275615775573694909
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4887116285355050545
+      m_GuidHigh: 7121224004699939731
+    m_SerializedTextureGuid:
+      m_GuidLow: 7067533951198109913
+      m_GuidHigh: 10585817240422576922
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: CanvasMenuKOR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4905032022744203806
+      m_GuidHigh: 11453488966235051679
+    m_SerializedTextureGuid:
+      m_GuidLow: 9242663278306883470
+      m_GuidHigh: 18153221309796990360
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: CanvasMenuUSA
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5445225585440955519
+      m_GuidHigh: 3626565991841083010
+    m_SerializedTextureGuid:
+      m_GuidLow: 10215543246088692995
+      m_GuidHigh: 742076731942205739
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: CanvasMenuFRN
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5314866043654604751
+      m_GuidHigh: 9117846910464538770
+    m_SerializedTextureGuid:
+      m_GuidLow: 10931454827439016977
+      m_GuidHigh: 10221258187023156137
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: CanvasMenuITA
+    m_Texture: {fileID: 0}
